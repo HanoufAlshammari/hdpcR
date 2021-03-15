@@ -60,5 +60,5 @@ whitenoise==5.2.0
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 
-xlrd==1.2.0
+
 
