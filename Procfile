@@ -1,1 +1,1 @@
-web: gunicorn ourUI
+web: gunicorn ourUI.wsgi --log-file -
