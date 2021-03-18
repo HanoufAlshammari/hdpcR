@@ -1,2 +1,1 @@
-web:gunicorn ourUI.wsgi
-
+web gunicorn ourUI.wsgi.application
