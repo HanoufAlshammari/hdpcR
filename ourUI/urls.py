@@ -21,6 +21,6 @@ from TheUI import views
 
 urlpatterns = [
     #path('admin/', admin.site.urls),
-    path('',views.home, name='home'),
-    path('Home2',views.Home2, name='Home2'),
+    path('',views.Hanouf, name='Hanouf'),
+    path('Contact',views.Contact, name='Contact'),
 ]
